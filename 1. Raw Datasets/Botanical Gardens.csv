@@ -1,0 +1,5 @@
+NAME,the_geom,TEL,URL,ADDRESS1,ADDRESS2,CITY,ZIP
+New York Botanical Garden,POINT (-73.87826809844856 40.8638797881768),(718) 817-8700,http://www.nybg.org/,200th Street and Kazimiroff Blvd,,Bronx,10458
+Brooklyn Botanic Garden,POINT (-73.96340681975498 40.667315378140806),(718) 623-7200,http://www.bbg.org/,1000 Washington Ave,,Brooklyn,11225
+Queens Botanical Garden,POINT (-73.82957497018033 40.750456933569126),(718) 886-3800,http://www.queensbotanical.org/,43-50 Main Street,,Flushing,11355
+Snug Harbor Cultural Center and Botanical Garden,POINT (-74.10455648630429 40.645101267812436),(718) 273-8200,http://www.snug-harbor.org/,1000 Richmond Terrace,,Staten Island,10310

@@ -1,0 +1,91 @@
+Prop_ID,Name,Location,Description,Hours,Belongs_to_Parks,Launch___Land,Storage,Available_Parking,lat,lon
+R079,Lemon Creek Marina,Hylan Boulevard & Seguine Avenue,,Dawn until Dusk,Yes,Floating Launch,Winter storage available only,Parking,40.5106,-74.1975
+M042,Inwood Hill Park,Dyckman Street & Hudson River,,,Yes,Natural Sand Beach,None,Street Parking,40.8694,-73.9319
+M071,Riverside Park (79th Street),79th Street Boat Basin & Hudson River,,Sunrise to Sunset,Yes,Floating Launch,Public Storage for up to 80 kayaks at boat basin,Street Parking,40.7867,-73.9847
+M071,Riverside Park (72nd Street),"<p class=""alert alert-error"">The kayak launch site at 72nd Street in Riverside Park is closed for the season. Please visit <a href=""/facilities/kayak"">The New York City Water Trail</a> page to find other kayak launches. </p>72nd Street & Hudson River","<p>For more information regarding the 72nd Street launch and landing, please visit the <a href=""http://www.manhattancommunityboathouse.org/"">Manhattan Community Boathouse</a>website.</p>",Park: 6:00am-1:00am; Launch: Sunrise to Sunset,No,Floating Launch,None,,40.7814,-73.9883
+M,Hudson River Park (Pier 40),"Houston Street, Pier 40","<p>The Village Community Boathouse offers free community rowing on Sundays and Tuesdays, from April&nbsp;through November. No experience is necessary and there is no registration. Just show up and have some fun on the Hudson River! First timers have an opportunity to learn basic rowing techniques, terminology, and safety.&nbsp;All are welcome to join community boatbuilding and repair on Wednesdays and Sundays.&nbsp;</p>
+
+<p>Please visit the <a href=""http://www.villagecommunityboathouse.org/"">Village Community Boathouse&#39;s website</a> for program schedules and updates.&nbsp;Programs are subject to changes.</p>
+
+<p>For more information about the Pier 40&#39;s landing, free community rowing, and more, please visit the <a href=""http://www.villagecommunityboathouse.org/"">Village Community Boathouse&#39;s website</a>.</p>",,No,Launch Site,None,,40.7292,-74.0112
+M,Hudson River Park (Pier 96),"56th Street, Pier 96","<p>For more information regarding the Pier 96 launch and landing, please visit the Downtown Boathouse website:</p>
+<p><a href=""http://www.nycgovparks.org/exit&Alpha;url=http%3A//www.downtownboathouse.org/"">http://www.downtownboathouse.org/<br />
+</a></p>",,No,Launch Site,None,,40.7711,-73.9956
+M,Hudson River Park (Pier 84),"44th Street, Pier 84",,,No,Launch Site,,,40.7632,-73.9999
+B418,Louis J. Valentino Park,Coffey Street,,Dawn to Dusk,Yes,Both,No Storage Available,Parking on Van Dyke St,40.6786,-74.0183
+B406,Sebago Canoe Club (Paerdegat Basin),Paerdegat Avenue North,"<p>&quot;The Sebago Canoe Club is a volunteer run, 501C3 nonprofit, membership organization in Canarsie, Brooklyn. &nbsp;The club, with it's pleasanet, tree-filled grounds is located on Paerdegat basin with direct access to the beautiful waters of Jamaica Bay.&quot;</p>
+<p>&nbsp;For more information regarding Sebago Canoe Club, please visit their website at&nbsp;<a href=""http://sebagocanoeclub.org"">sebagocanoeclub.org</a></p>
+<p>(Information provided by the Sebago Canoe Club website)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>",,Yes,Both,"Public Storage 10 kayaks, 10 canoes",,40.6264,-73.9047
+B,Mill Basin Marina,Avenue Y & East 69th Street,,Sunrise to Sunset,Yes,Launch,Winter storage for boats only,,40.6119,-73.9025
+X088,Clason Point Park,Foot of Soundview Avenue & East River,"<p>A concrete ramp provides access to marshes of Pugsley Creek, the East River, the Hutchinson River Drainage, and Long Island Sound. Portage is 150 feet.</p>
+<p>Caution:&nbsp;Strong currents in the East River, heavy commercial traffic, and lots of broken glass in Launch Area.</p>",,Yes,Launch Site,Public storage container,Street Parking,40.8047,-73.8486
+X336,Hunts Point Riverside Park,Lafayette Ave & Edgewater Rd,"<p>A gravel beach offers access to the sheltered waters of the Bronx River. Portage is 200ft. on an asphalt path.</p>
+<p>Caution: A half mile north, a boom collects debris and helps prevent motorized traffic from going north; to the south are strong currents and a working shipping channel.</p>",,Yes,Floating Pier,"Private storage only (belongs to ""rocking the boat",,40.8178,-73.8811
+X307,Barretto Point Park,E/S Barretto Street & N/O Randall Ave,,Sunrise to Sunset,Yes,Launch Site,Storage 1 private(Senator Serrano) 2 public (Parks,,40.8058,-73.8894
+Q099,World's Fair Marina,Grand Central Parkway & Northern Blvd,,7:00am-8:00pm,Yes,Fixed Launch,Public storage available,Parking,40.7636,-73.8436
+Q135,Bayside Marina,Cross Island Pkwy & Little Neck Bay,,,Yes,Fixed Launch,None,Limited Parking,40.7797,-73.7681
+Q126,Francis Lewis Park,3rd Avenue and Parson's Blvd,,,Yes,Sand beach landing only,None,,40.7972,-73.8247
+B057,Salt Marsh Nature Center (Gerritsen Inlet),Avenue U between Burnett Street & East 33 Street,,,Yes,Both,No Storage available,,40.6025,-73.9317
+X039,Pelham Bay Park (Orchard Beach Lagoon),Orchard Beach Rd & Lagoon,,Sunrise to Sunset,Yes,Launch ramp to high tide line,No storage available,Parking,40.8722,-73.8486
+Q010A,Little Bay Park (Fort Totten),Little Bay,,6:00am-9:00pm,Yes,Land and Launch,,,40.7914,-73.7825
+Q392,Idlewild,Craft Avenue & Huxley Street,,9:00 a.m. - 9:00 p.m. Monday to Friday,No,Land and Launch,,,40.6492,-73.7369
+R046,Midland Beach,Father Capodanno Boulevard & Lincoln Avenue (Parking Lot),"<p>Midland Beach offers access to the Lower Harbor and Raritan Bay. The carry to the water is about 250 ft.</p><p>Caution: Raritan Bay and Lower Bay are open to the ocean, lauching and landing can be hazardous in high surf.</p>",,Yes,,,,40.5683,-74.0886
+R006,Conference House,Hylan Blvd & Satterlee Street,"<p>The site of a legendary display of American defiance early in the Revolutionary War, and the southernmost point in the State. A long (800 ft.) but paved pedestrian path offers access to the Arthur Kill&nbsp; and Raritan Bay.</p>
+<p>Caution: Semi-Submerged pilings north and south of the launch, and a major shipping channel 400 yards offshore.</p>",,Yes,,,,40.5025,-74.2544
+B,Newtown Creek,"Provost Street and Paige Avenue, Greenpoint","<p>Landing only at tiered steps going to a nature path at a wastewater treatment plant, operated by the NYC Departement of Environmental protection. There is always portage about 200 yards on a curving pathway.</p>
+<p>Caution: This waterway haas been designated by the EPA Superfund sites for the presence of Hazardous Substances (see <a href=""http://www.nyc.gov/dep"">www.nyc.gov/dep</a>); see cautionary&nbsp;informationin the box below.</p>",Temporarily Closed,No,Launch and Landing,,,40.7369,-73.9469
+Q007,Bayswater,Beach 35 St & Norton Ave,,Park Closes at 9:00PM,Yes,Launch & Landing,,,40.5989,-73.7703
+Q226,Hallet's Cove,Vernon Blvd,,24 Hours,Yes,,,,40.7694,-73.9356
+B,Floyd Bennett Field,Floyd Bennett Field,,Dusk to Dawn (permit required),No,LaunchLand,,,40.5958,-73.8811
+M300,Sherman Creek,W.202nd Street,"<p>This launch has good access to the bucolic Harlem River.</p>
+<p>Caution: Local college crews row on the Harlem River.</p>",,Yes,,,,40.8603,-73.9183
+R016,Great Kills Park,Hylan Blvd & Buffalo Street,"<p>Located on a peninsula in Staten Island, Great Kills Park is almost 600 acres of open space where visitors can enjoy many recreational amenities or explore the wildlife still thriving in New York City. &nbsp;The name &quot;Great Kills&quot; originates from a Dutch word meaning &quot;many creeks.&quot; &nbsp;Today, the waters are popular with boaters and fisherman alike. &nbsp;Kayak launching is available at both the marina and the beach.</p>
+<p>For more information, please visit the New York Harbor Parks &quot;Great Kills&quot; website page by clicking <a href=""http://www.nyharborparks.org/visit/grki.html"">here</a>.</p>
+<p>(Information provided by the New York Harbor Parks &quot;Great Kills&quot; website page)</p>",,No,,,,40.5436,-74.1275
+M,Hudson River Park (Pier 66),W. 26th Street,,Per Operator:  www.pier66nyc.org,No,,,,40.7519,-74.0083
+B,Gowanus Canal,Foot of 2nd Street,,,No,,,,40.6767,-73.9897
+R117,Alice Austen House/Buono Beach,Hylan Boulevard & Edgewater Street,,Dawn to Dusk,Yes,,,,40.6156,-74.0628
+R046,South Beach,Father Capodanno Boulevard & Sand Lane,,Lot closes at 11:00 p.m.,Yes,,,,40.5892,-74.065
+X002,Shoelace Park,Bronx Park & 219th Street,,Dawn to Dusk,Yes,,,,40.8844,-73.8672
+X305,Concrete Plant Park,Westchester Avenue or Bruckner Boulevard,"<p>A concrete launch ramp at a reclaimed cement manufacturing site on the Bronx River. Limited street parking and a long carry from either the Westchester Ave. ( .25 mi.) or Bruckner Blvd. ( .15 mi.) entrance.</p>
+<p>Caution: A boom spanning the river collects debris and helps prevent motorized traffic from going north; to the south are strong currents and a working shipping channel.</p>",Dawn to Dusk,Yes,,,,40.8275,-73.8847
+B,Manhattan Avenue,"Manhattan Avenue Street-end, Greenpoint",,This site is now open for use.,Yes,,,,40.7389,-73.9553
+B431,Brooklyn Bridge Park,Between Piers 1 and 2,,Saturday from 10 a.m. to 3 p.m. and Thursday from 5:30 p.m. to 6:45 p.m.,No,,,,40.7042,-73.9903
+B,Plumb Beach,"East bound Belt Parkway, just east of Exit 9 Knapp Street","<p>Calm waters and strong winds make the sand beach a favorite take off for windsurfers and kite boarders. Launching is recommended at higher tide as mud flats make the walk to water several hundred yards at low tide. A permit is required.</p>
+<p>Caution: Do not disturb the horseshoe crabs in this prime breeding area. Challenging wind and tide conditions. Watch for glass on the beach.</p>",,Yes,,,,40.5828,-73.9211
+Q,North Channel Beach (Gateway National Parks),"Cross Bay Boulevard, south end of Addabbo Bridge, Broad Channel","<p>The sand beach launch on the eastside goes in the Grassy Bayportion of Jamaica Bay, a popular kayak fishing destination, wesy side launch opens to Pumpkin Pacth Channel and North Channel.</p>
+<p>Caution: Heavy pleasure boat traffic in Jamaica Bay, stay clear of channels. This is a wildlife&nbsp;refuge, do not land on islands nor disturb the flora or fauna.</p>",5 a.m. to 11 p.m.,Yes,,,,40.6356,-73.8247
+M376,West Harlem Piers,"130th Street & Marginal Street, Harlem",,Park: 9:00am-9:00pm; Launch: Sunrise to Sunset,Yes,,,,40.8206,-73.9597
+M,Govenors Island,"Pier 101, near the Brooklyn Battery Tunnel Vent",,See Site Restrictions,Yes,,,,40.6914,-74.0122
+X118,Soundview Park,"O'Brien Avenue at Leland Avenue, Soundview","<p>Enter the park and make a left off the main path to an asphalt&nbsp; ramp located near the confluence of the Bronx River and East River (about a three block portage from street parking). The area offers expansive views of the river, migratory birds and the distant Manhattan skyline.</p>
+<p>Caution: Barge traffic and other motor boats.</p>",Dusk to Dawn,Yes,,,,40.8094,-73.8603
+M,Hudson River Park (Pier 25),"West Street, between Moore Street and Harrison Street","<p>The NYC Water Trail is an ongoing project. &nbsp;For more information on a trail or to provide information on a trail please send an email to&nbsp;<a href=""mailto:Water.Trail@parks.nyc.gov"">Water.Trail@parks.nyc.gov</a>.</p>
+<p>A new addition to the Hudson River Park, Pier 25 is a lovely addition to the New York City Water Trail. &nbsp;For more information regarding the dock at Pier 25, please visit the Hudson River Park website at:</p>
+<p><a href=""http://www.hudsonriverpark.org/explore-the-park/activities/docking-at-pier-25"">http://www.hudsonriverpark.org/explore-the-park/activities/docking-at-pier-25</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>",,No,,,,,
+R,Cedar Grove Beach,Foot of New Dorp Lane,"<p>The NYC Water Trail is an ongoing project. &nbsp;For more information on a trail or to provide information on a trail please send an email to&nbsp;<a href=""mailto:Water.Trail@parks.nyc.gov"">Water.Trail@parks.nyc.gov</a>.&nbsp;&nbsp;</p>",,Yes,,,,,
+B,Mill Basin Outlet,,"<p>The NYC Water Trail is an ongoing project. &nbsp;For more information on a trail or to provide information on a trail please send an email to&nbsp;<a href=""mailto:Water.Trail@parks.nyc.gov"">Water.Trail@parks.nyc.gov</a>.</p>",,Yes,,,,,
+B,Canarsie Pier,End of Rockaway Parkway at Aviation Road,"<p>The NYC Water Trail is an ongoing project. &nbsp;For more information on a trail or to provide information on a trail please send an email to&nbsp;<a href=""mailto:Water.Trail@parks.nyc.gov"">Water.Trail@parks.nyc.gov</a>.</p>",,Yes,,,,,
+Q,Riis Landing,Rockaway Boulevard and Heinzelman Road,"<p>For more information about this location, please visit the <a href=""http://www.nps.gov/gate/planyourvisit/jamaica-bay-kayak-trails.htm"">National Park Service</a> website.</p>
+<p>&nbsp;</p>
+<p><span style=""font-family: Arial; "">The NYC Water Trail is an ongoing project. &nbsp;For more information on a trail or to provide information on a trail please send an email to&nbsp;</span><a href=""mailto:Water.Trail@parks.nyc.gov""><span style=""font-family: Arial; "">Water.Trail@parks.nyc.gov</span></a><span style=""font-family: Arial; "">.</span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>",,No,,,,,
+B,Pier One at Brooklyn Bridge Park,Brooklyn Bridge Park Greenway,"<p>The NYC Water Trail is an ongoing project. &nbsp;For more information on a trail or to provide information on a trail please send an email to&nbsp;<a href=""mailto:Water.Trail@parks.nyc.gov"">Water.Trail@parks.nyc.gov</a>.</p>",,No,,,,,
+M042,Muscota Marsh,,,,Yes,,,,,
+X002,Kazimiroff Blvd at Bronx River Parkway,Kazimiroff Blvd at Bronx River Parkway,,,Yes,,,,,
+X004,Fort Knox,,<p>&nbsp;The access point is made up of a small log step down that is easily accessible with kayaks or canoes.</p>,,Yes,,,,,
+X147A,Starlight Park,,,,Yes,,,,,
+M,Hudson River Park (Pier 26),Hudson River Park at Hubert Street,"<p>The NYC Downtown Boathouse offers free walk-up kayaking during the summer season, starting May. Great for kids and adults!</p>
+
+<p>For more information regarding the Pier 26 launch and landing, please visit the Downtown Boathouse website at&nbsp;<a href=""http://www.downtownboathouse.org/"">downtownboathouse.org</a>.</p>",,No,,,,,
+Q,"Riis Landing, Kayak/Canoe Launch",201 Rockaway Point Road,,,No,,,,,
+Q009,MacNeil Park,Poppenhusen Ave. bet. 115 St. and College Pl.,<p>Neighborhood Park</p>,Dawn to Dusk,Yes,,,,,
+M,Hudson River Park (Pier 26),,"<p>The NYC Downtown Boathouse offers free walk-up kayaking during the summer season, starting May. Great for kids and adults!</p><p>For more information regarding the Pier 26 launch and landing, please visit the Downtown Boathouse website at <a href=""http://www.downtownboathouse.org/"">downtownboathouse.org</a>.</p>",,No,40.72154,-74.01316,,,
+M104,Randall's Island Park,Northwestern Randall's Island and Bronx Kill,,Open Daily: 5:00 a.m. - 12:00 a.m.,Yes,,,,,
